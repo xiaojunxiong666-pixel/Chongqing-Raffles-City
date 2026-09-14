@@ -34,13 +34,15 @@ Advertising-grade Blender visualization of Chongqing Raffles City with 4K render
 
 请打开 [GitHub Releases / v118](https://github.com/xiaojunxiong666-pixel/Chongqing-Raffles-City/releases/tag/v118) 并下载五个正式资产：
 
-| 文件 | 用途 | 是否必需 |
+| 正式中文名 | GitHub Release 资产名 | 用途 | 是否必需 |
 | --- | --- | --- |
-| 01_最终Blend_分卷1.zip | 最终 Blend 分卷 1 | 与 02、04 一起使用 |
-| 02_最终Blend_分卷2.zip | 最终 Blend 分卷 2 | 与 01、04 一起使用 |
-| 03_Assets素材_中文.zip | 三个 Poly Haven CC0 HDRI 和素材说明 | 可选；最终 Blend 已打包必要图像 |
-| 04_合并工具与验证说明_中文.zip | Windows 合并脚本、说明和验证记录 | 合并 01 + 02 必需 |
-| 05_独立实时漫游Viewer_中文.zip | 独立本地实时 Viewer | 只想看 Viewer 时使用 |
+| 01_最终Blend_分卷1.zip | 01_FinalBlend_Part1.zip | 最终 Blend 分卷 1 | 与 02、04 一起使用 |
+| 02_最终Blend_分卷2.zip | 02_FinalBlend_Part2.zip | 最终 Blend 分卷 2 | 与 01、04 一起使用 |
+| 03_Assets素材_中文.zip | 03_Assets_CN.zip | 三个 Poly Haven CC0 HDRI 和素材说明 | 可选；最终 Blend 已打包必要图像 |
+| 04_合并工具与验证说明_中文.zip | 04_Merge_Verify_CN.zip | Windows 合并脚本、说明和验证记录 | 合并 01 + 02 必需 |
+| 05_独立实时漫游Viewer_中文.zip | 05_Standalone_Viewer_CN.zip | 独立本地实时 Viewer | 只想看 Viewer 时使用 |
+
+GitHub 会自动把非字母数字字符从 Release 资产名中规范化为 ASCII。上表左列是正式源包名，右列是 GitHub 实际下载名；每个资产的 label 仍保留正式中文名。SHA256SUMS.txt 按实际下载名列出校验值。
 
 Git 仓库本身不包含这五个 ZIP、Blend、GLB 或 HDR 文件。这样可以让仓库保持可浏览，同时让 Release 资产保留原始正式包及其 SHA-256。
 

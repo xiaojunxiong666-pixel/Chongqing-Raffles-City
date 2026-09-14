@@ -34,13 +34,15 @@ The factual boundary of this project is:
 
 Open [GitHub Releases / v118](https://github.com/xiaojunxiong666-pixel/Chongqing-Raffles-City/releases/tag/v118). The five formal assets are:
 
-| File | Purpose | Required |
+| Canonical Chinese name | GitHub Release asset name | Purpose | Required |
 | --- | --- | --- |
-| 01_最终Blend_分卷1.zip | Final Blend part 1 | Use with 02 and 04 |
-| 02_最终Blend_分卷2.zip | Final Blend part 2 | Use with 01 and 04 |
-| 03_Assets素材_中文.zip | Three Poly Haven CC0 HDRIs and asset notes | Optional; required images are packed in the final Blend |
-| 04_合并工具与验证说明_中文.zip | Windows merge scripts, instructions, and validation records | Required to merge 01 + 02 |
-| 05_独立实时漫游Viewer_中文.zip | Standalone local realtime Viewer | Use when you only need the Viewer |
+| 01_最终Blend_分卷1.zip | 01_FinalBlend_Part1.zip | Final Blend part 1 | Use with 02 and 04 |
+| 02_最终Blend_分卷2.zip | 02_FinalBlend_Part2.zip | Final Blend part 2 | Use with 01 and 04 |
+| 03_Assets素材_中文.zip | 03_Assets_CN.zip | Three Poly Haven CC0 HDRIs and asset notes | Optional; required images are packed in the final Blend |
+| 04_合并工具与验证说明_中文.zip | 04_Merge_Verify_CN.zip | Windows merge scripts, instructions, and validation records | Required to merge 01 + 02 |
+| 05_独立实时漫游Viewer_中文.zip | 05_Standalone_Viewer_CN.zip | Standalone local realtime Viewer | Use when you only need the Viewer |
+
+GitHub automatically normalizes non-alphanumeric characters in Release asset names to ASCII. The left column is the formal source-package name and the right column is the actual GitHub download name; each asset label retains the formal Chinese name. SHA256SUMS.txt uses the actual download names.
 
 The Git repository does not contain these five ZIPs, Blend files, GLB files, or HDR files. Keeping them as Release assets preserves the formal packages and their checksums while keeping the repository browsable.
 

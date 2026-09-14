@@ -1,5 +1,11 @@
-4ec86c0ecca80a7f6cdec56ee21d770e293d18304d1e5e90ef73e80e04dd5542  01_最终Blend_分卷1.zip
-0ab91901a4e6fe6d163ee218796479a78fb815377f89db91363fa9d08971bfbd  02_最终Blend_分卷2.zip
-d95c3022e20b44836c62bdb8e9ef3c1320304466a354b17ae5de7ae87fa353d5  03_Assets素材_中文.zip
-a6d73f084cf584a307eb8ed8b9b3082b956881d3db1bd9c312327e93fa73c7f9  04_合并工具与验证说明_中文.zip
-a936924b434d56f1fccf7ee0ebccecafccb6792d40e794f43677b8f354854487  05_独立实时漫游Viewer_中文.zip
+# GitHub normalizes the non-ASCII canonical names to the ASCII Release names below.
+# Canonical 01_最终Blend_分卷1.zip -> 01_FinalBlend_Part1.zip
+# Canonical 02_最终Blend_分卷2.zip -> 02_FinalBlend_Part2.zip
+# Canonical 03_Assets素材_中文.zip -> 03_Assets_CN.zip
+# Canonical 04_合并工具与验证说明_中文.zip -> 04_Merge_Verify_CN.zip
+# Canonical 05_独立实时漫游Viewer_中文.zip -> 05_Standalone_Viewer_CN.zip
+4ec86c0ecca80a7f6cdec56ee21d770e293d18304d1e5e90ef73e80e04dd5542  01_FinalBlend_Part1.zip
+0ab91901a4e6fe6d163ee218796479a78fb815377f89db91363fa9d08971bfbd  02_FinalBlend_Part2.zip
+d95c3022e20b44836c62bdb8e9ef3c1320304466a354b17ae5de7ae87fa353d5  03_Assets_CN.zip
+a6d73f084cf584a307eb8ed8b9b3082b956881d3db1bd9c312327e93fa73c7f9  04_Merge_Verify_CN.zip
+a936924b434d56f1fccf7ee0ebccecafccb6792d40e794f43677b8f354854487  05_Standalone_Viewer_CN.zip

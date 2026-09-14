@@ -5,6 +5,7 @@
 - Repository display name: Chongqing Raffles City
 - Repository slug: Chongqing-Raffles-City
 - Repository URL: https://github.com/xiaojunxiong666-pixel/Chongqing-Raffles-City
+- Release URL: https://github.com/xiaojunxiong666-pixel/Chongqing-Raffles-City/releases/tag/v118
 - Intended visibility: public
 - Intended default branch: main
 - Release tag: v118
@@ -19,15 +20,15 @@
 
 All five source ZIPs were read from D:\Blender\CHONGQING_CITY_V1\delivery\FINAL_PACKAGES. The byte counts and SHA-256 values below match the project delivery state and the pre-publication audit.
 
-| Release asset | Bytes | SHA-256 | Content |
-| --- | ---: | --- | --- |
-| 01_最终Blend_分卷1.zip | 88587274 | 4ec86c0ecca80a7f6cdec56ee21d770e293d18304d1e5e90ef73e80e04dd5542 | Blend part 01 and split note |
-| 02_最终Blend_分卷2.zip | 68141921 | 0ab91901a4e6fe6d163ee218796479a78fb815377f89db91363fa9d08971bfbd | Blend part 02 and split note |
-| 03_Assets素材_中文.zip | 34137504 | d95c3022e20b44836c62bdb8e9ef3c1320304466a354b17ae5de7ae87fa353d5 | Three HDRIs and asset note |
-| 04_合并工具与验证说明_中文.zip | 4806 | a6d73f084cf584a307eb8ed8b9b3082b956881d3db1bd9c312327e93fa73c7f9 | Merge tools, instructions, and QA records |
-| 05_独立实时漫游Viewer_中文.zip | 40577418 | a936924b434d56f1fccf7ee0ebccecafccb6792d40e794f43677b8f354854487 | Offline local Viewer and packaged GLB |
+| Canonical source name | GitHub Release asset name | Bytes | SHA-256 | Content |
+| --- | --- | ---: | --- | --- |
+| 01_最终Blend_分卷1.zip | 01_FinalBlend_Part1.zip | 88587274 | 4ec86c0ecca80a7f6cdec56ee21d770e293d18304d1e5e90ef73e80e04dd5542 | Blend part 01 and split note |
+| 02_最终Blend_分卷2.zip | 02_FinalBlend_Part2.zip | 68141921 | 0ab91901a4e6fe6d163ee218796479a78fb815377f89db91363fa9d08971bfbd | Blend part 02 and split note |
+| 03_Assets素材_中文.zip | 03_Assets_CN.zip | 34137504 | d95c3022e20b44836c62bdb8e9ef3c1320304466a354b17ae5de7ae87fa353d5 | Three HDRIs and asset note |
+| 04_合并工具与验证说明_中文.zip | 04_Merge_Verify_CN.zip | 4806 | a6d73f084cf584a307eb8ed8b9b3082b956881d3db1bd9c312327e93fa73c7f9 | Merge tools, instructions, and QA records |
+| 05_独立实时漫游Viewer_中文.zip | 05_Standalone_Viewer_CN.zip | 40577418 | a936924b434d56f1fccf7ee0ebccecafccb6792d40e794f43677b8f354854487 | Offline local Viewer and packaged GLB |
 
-The formal Release also includes SHA256SUMS.txt. Historical duplicate folders and ZIPs in FINAL_PACKAGES are deliberately excluded.
+GitHub normalizes non-ASCII Release asset names; the label on each asset retains the canonical Chinese name. The formal Release also includes SHA256SUMS.txt, which is keyed to the actual ASCII download names. Historical duplicate folders and ZIPs in FINAL_PACKAGES are deliberately excluded.
 
 ## Package entry summary
 

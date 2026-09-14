@@ -3,13 +3,13 @@
 
 ## 下载内容
 
-请下载 GitHub Release 中的五个正式 ZIP：
+请下载 GitHub Release 中的五个正式 ZIP。GitHub 会把中文资产名规范化为 ASCII 下载名，但每个资产的 label 保留正式中文名：
 
-- 01_最终Blend_分卷1.zip
-- 02_最终Blend_分卷2.zip
-- 03_Assets素材_中文.zip
-- 04_合并工具与验证说明_中文.zip
-- 05_独立实时漫游Viewer_中文.zip
+- 01_最终Blend_分卷1.zip → 01_FinalBlend_Part1.zip
+- 02_最终Blend_分卷2.zip → 02_FinalBlend_Part2.zip
+- 03_Assets素材_中文.zip → 03_Assets_CN.zip
+- 04_合并工具与验证说明_中文.zip → 04_Merge_Verify_CN.zip
+- 05_独立实时漫游Viewer_中文.zip → 05_Standalone_Viewer_CN.zip
 
 01、02、04 解压到同一父目录后，使用 04 中的 MERGE_BLEND.cmd 合并最终 Blend。05 是独立本地实时漫游 Viewer，不需要 Blender、Python、Node 或互联网。
 
